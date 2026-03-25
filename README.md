@@ -64,7 +64,9 @@ You will be prompted for:
 The setup may take several minutes to complete when run for the first time. If any automation step fails, the script prints steps to remedy the failed step.  
 Once the script succeeds, it will provide the URL for your dashboard.
 
-### Updating Your Repository
+---
+
+## Updating Your Repository
 
 - To pull in new updates and features from the original repo, use GitHub's **Sync fork** button on your fork's `main` branch.
 - Activity data is stored on a dedicated `dashboard-data` branch and deployed from there
@@ -73,7 +75,7 @@ Once the script succeeds, it will provide the URL for your dashboard.
 
 ---
 
-### Switching Sources Later
+## Switching Sources Later
 
 You can switch between `strava` and `garmin` at any time.
 
@@ -91,6 +93,8 @@ You can switch between `strava` and `garmin` at any time.
 - If neither `sync.start_date` nor `sync.lookback_years` is set, the sync workflow backfills all available history from the selected source (i.e. Strava/Garmin).
 - Strava backfill state is stored in `data/backfill_state_strava.json`; Garmin backfill state is stored in `data/backfill_state_garmin.json`. If a backfill hits API limits (unlikely), this state allows the daily refresh automation to pick back up where it left off.
 - The Sync action workflow includes a toggle labeled `Reset backfill cursor and re-fetch full history for the selected source` which forces a one-time full backfill. This is useful if you add/delete/modify activities which have already been loaded.
+
+---
 
 ## Manual Setup (No Scripts)
 
