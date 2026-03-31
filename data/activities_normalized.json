@@ -59694,5 +59694,44 @@
     "start_date_local": "2026-03-30T07:49:22Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 15931.8,
+    "elevation_gain": 137.0,
+    "id": "17916332401",
+    "moving_time": 2610.0,
+    "name": "Red Sand",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-30T15:19:12Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17922648642",
+    "moving_time": 2967.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-31T06:03:28Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 17059.2,
+    "elevation_gain": 74.0,
+    "id": "17923500958",
+    "moving_time": 2655.0,
+    "name": "Vestige",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-31T07:34:56Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
