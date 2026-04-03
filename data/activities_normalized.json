@@ -59800,6 +59800,19 @@
     "year": 2026
   },
   {
+    "date": "2026-04-01",
+    "distance": 20728.8,
+    "elevation_gain": 142.0,
+    "id": "17954831453",
+    "moving_time": 3494.0,
+    "name": "Brain Fingerprinting",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-01T15:24:07Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
     "date": "2026-04-02",
     "distance": 541.7,
     "elevation_gain": 14.0,
@@ -59835,6 +59848,32 @@
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-04-02T07:49:35Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 11902.1,
+    "elevation_gain": 63.0,
+    "id": "17953752556",
+    "moving_time": 2023.0,
+    "name": "Attack Of The 20lb Pizza",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-02T15:18:54Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 13353.2,
+    "elevation_gain": 49.0,
+    "id": "17954871037",
+    "moving_time": 2156.0,
+    "name": "Copper Wasp",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-02T06:53:12Z",
     "type": "Ride",
     "year": 2026
   }
