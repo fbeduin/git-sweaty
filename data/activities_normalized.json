@@ -59928,5 +59928,70 @@
     "start_date_local": "2026-04-08T07:55:29Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 16106.6,
+    "elevation_gain": 115.0,
+    "id": "18032450940",
+    "moving_time": 2665.0,
+    "name": "Doomatang",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-08T15:53:53Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 11096.6,
+    "elevation_gain": 37.0,
+    "id": "18034524200",
+    "moving_time": 1959.0,
+    "name": "Blurry Morning",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-08T07:06:58Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 540.4,
+    "elevation_gain": 15.0,
+    "id": "18038498781",
+    "moving_time": 130.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-09T07:08:24Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18039140547",
+    "moving_time": 2671.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-09T07:15:28Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 12971.5,
+    "elevation_gain": 36.0,
+    "id": "18040625089",
+    "moving_time": 1994.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-09T08:05:02Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
