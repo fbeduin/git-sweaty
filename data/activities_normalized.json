@@ -59993,5 +59993,44 @@
     "start_date_local": "2026-04-09T08:05:02Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 16374.5,
+    "elevation_gain": 197.0,
+    "id": "18046564459",
+    "moving_time": 3336.0,
+    "name": "Incarnation Highway",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-09T15:17:12Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 12970.8,
+    "elevation_gain": 51.0,
+    "id": "18048000774",
+    "moving_time": 2047.0,
+    "name": "Moorish Maze",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-09T07:08:24Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 10292.5,
+    "elevation_gain": 72.0,
+    "id": "18052695630",
+    "moving_time": 1689.0,
+    "name": "The Dipp",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-10T08:17:09Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
