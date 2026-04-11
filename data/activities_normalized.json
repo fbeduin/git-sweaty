@@ -60032,5 +60032,18 @@
     "start_date_local": "2026-04-10T08:17:09Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 10235.7,
+    "elevation_gain": 77.0,
+    "id": "18058413825",
+    "moving_time": 1697.0,
+    "name": "Clock Up",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-10T17:47:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
