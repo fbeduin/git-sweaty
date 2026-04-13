@@ -60045,5 +60045,57 @@
     "start_date_local": "2026-04-10T17:47:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 6124.1,
+    "elevation_gain": 24.0,
+    "id": "18085254265",
+    "moving_time": 978.0,
+    "name": "Early Morning",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-12T05:25:05Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 5463.6,
+    "elevation_gain": 46.0,
+    "id": "18085254271",
+    "moving_time": 914.0,
+    "name": "This Is The End",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-12T18:28:34Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 203947.0,
+    "elevation_gain": 1527.0,
+    "id": "18085515644",
+    "moving_time": 30973.0,
+    "name": "Prova#58: Audax Floripa - BRM 200 dos organizadores",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-12T06:05:50Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 10679.1,
+    "elevation_gain": 46.0,
+    "id": "18090694605",
+    "moving_time": 1798.0,
+    "name": "The Saviour is Condemned",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-13T08:07:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
