@@ -59891,6 +59891,19 @@
     "year": 2026
   },
   {
+    "date": "2026-04-07",
+    "distance": 5500.0,
+    "elevation_gain": 0.0,
+    "id": "18098751287",
+    "moving_time": 2855.0,
+    "name": "Caminhada vespertina",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-07T17:55:00Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
     "date": "2026-04-08",
     "distance": 541.4,
     "elevation_gain": 15.0,
@@ -60047,6 +60060,19 @@
     "year": 2026
   },
   {
+    "date": "2026-04-11",
+    "distance": 5000.0,
+    "elevation_gain": 0.0,
+    "id": "18098735161",
+    "moving_time": 2460.0,
+    "name": "Caminhada ao entardecer",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-11T18:30:00Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
     "date": "2026-04-12",
     "distance": 6124.1,
     "elevation_gain": 24.0,
@@ -60095,6 +60121,32 @@
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-04-13T08:07:21Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 6213.1,
+    "elevation_gain": 36.0,
+    "id": "18095125196",
+    "moving_time": 1142.0,
+    "name": "Takuya",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-13T15:20:41Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 11038.3,
+    "elevation_gain": 32.0,
+    "id": "18104336710",
+    "moving_time": 1862.0,
+    "name": "Tending the Embers",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-14T08:07:40Z",
     "type": "Ride",
     "year": 2026
   }
