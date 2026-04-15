@@ -60149,5 +60149,44 @@
     "start_date_local": "2026-04-14T08:07:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 10783.9,
+    "elevation_gain": 71.0,
+    "id": "18109152339",
+    "moving_time": 1884.0,
+    "name": "In-N-Out",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-14T15:19:35Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18117346961",
+    "moving_time": 2245.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-15T07:16:52Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 13487.9,
+    "elevation_gain": 62.0,
+    "id": "18118953022",
+    "moving_time": 2424.0,
+    "name": "Meat Eater",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-15T07:07:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
