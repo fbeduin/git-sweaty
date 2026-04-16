@@ -60188,5 +60188,31 @@
     "start_date_local": "2026-04-15T07:07:48Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 7925.0,
+    "elevation_gain": 49.0,
+    "id": "18123575399",
+    "moving_time": 1426.0,
+    "name": "Manala",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-15T16:25:48Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18130201252",
+    "moving_time": 3132.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-16T07:01:35Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
