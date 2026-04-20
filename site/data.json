@@ -32437,6 +32437,13 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 4,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -57623,6 +57630,15 @@
           "distance": 359965.4,
           "elevation_gain": 2010.0,
           "moving_time": 51255.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18179819029"
+          ],
+          "count": 1,
+          "distance": 344766.0,
+          "elevation_gain": 3121.0,
+          "moving_time": 61725.0
         }
       },
       "WeightTraining": {
@@ -57737,7 +57753,7 @@
       }
     }
   },
-  "generated_at": "2026-04-19T15:26:34.343288+00:00",
+  "generated_at": "2026-04-20T16:00:17.440249+00:00",
   "other_bucket": "OtherSports",
   "repo": "fbeduin/git-sweaty",
   "source": "strava",
