@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T16:16:08.614754+00:00",
+  "generated_at": "2026-04-28T16:30:41.681304+00:00",
   "years": {
     "2012": {
       "Ride": {
@@ -25226,12 +25226,22 @@
         },
         "2026-04-27": {
           "activity_ids": [
-            "18277342904"
+            "18277342904",
+            "18282714221"
+          ],
+          "count": 2,
+          "distance": 21572.800000000003,
+          "elevation_gain": 127.0,
+          "moving_time": 3490.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18291449718"
           ],
           "count": 1,
-          "distance": 10398.6,
-          "elevation_gain": 37.0,
-          "moving_time": 1671.0
+          "distance": 10747.6,
+          "elevation_gain": 49.0,
+          "moving_time": 1769.0
         }
       },
       "WeightTraining": {
@@ -25342,6 +25352,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3132.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18290027767"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2372.0
         }
       }
     }
