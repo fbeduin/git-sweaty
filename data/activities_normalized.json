@@ -60422,5 +60422,18 @@
     "start_date_local": "2026-04-30T15:41:51Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 5212.7,
+    "elevation_gain": 26.0,
+    "id": "18370768853",
+    "moving_time": 884.0,
+    "name": "Painful",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-04T08:23:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
