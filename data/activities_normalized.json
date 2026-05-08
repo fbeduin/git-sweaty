@@ -60565,5 +60565,70 @@
     "start_date_local": "2026-05-07T06:53:44Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 20555.5,
+    "elevation_gain": 179.0,
+    "id": "18416421870",
+    "moving_time": 3211.0,
+    "name": "Hot Wax",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-07T15:03:35Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 11790.0,
+    "elevation_gain": 95.6,
+    "id": "18419287026",
+    "moving_time": 1945.0,
+    "name": "Fair & Debonaire",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-07T06:53:44Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 531.0,
+    "elevation_gain": 15.0,
+    "id": "18423045028",
+    "moving_time": 132.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-08T07:05:58Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18423543258",
+    "moving_time": 2148.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-08T07:12:33Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 10526.1,
+    "elevation_gain": 40.0,
+    "id": "18424619407",
+    "moving_time": 1672.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-08T07:51:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

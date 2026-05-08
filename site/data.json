@@ -32612,6 +32612,41 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 15,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 6,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-08",
+      "hour": 7,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-08",
+      "hour": 7,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-08",
+      "hour": 7,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -57901,12 +57936,24 @@
         },
         "2026-05-07": {
           "activity_ids": [
-            "18411490348"
+            "18411490348",
+            "18416421870",
+            "18419287026"
           ],
-          "count": 1,
-          "distance": 11267.7,
-          "elevation_gain": 82.0,
-          "moving_time": 1852.0
+          "count": 3,
+          "distance": 43613.2,
+          "elevation_gain": 356.6,
+          "moving_time": 7008.0
+        },
+        "2026-05-08": {
+          "activity_ids": [
+            "18423045028",
+            "18424619407"
+          ],
+          "count": 2,
+          "distance": 11057.1,
+          "elevation_gain": 55.0,
+          "moving_time": 1804.0
         }
       },
       "WeightTraining": {
@@ -58053,11 +58100,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2669.0
+        },
+        "2026-05-08": {
+          "activity_ids": [
+            "18423543258"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2148.0
         }
       }
     }
   },
-  "generated_at": "2026-05-07T16:30:43.937013+00:00",
+  "generated_at": "2026-05-08T16:06:21.603361+00:00",
   "other_bucket": "OtherSports",
   "repo": "fbeduin/git-sweaty",
   "source": "strava",
