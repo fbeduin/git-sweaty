@@ -60630,5 +60630,31 @@
     "start_date_local": "2026-05-08T07:51:16Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 10774.3,
+    "elevation_gain": 65.0,
+    "id": "18429076759",
+    "moving_time": 1709.0,
+    "name": "Is Once Enough?",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-08T15:01:28Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 11057.1,
+    "elevation_gain": 55.0,
+    "id": "18429950154",
+    "moving_time": 1803.0,
+    "name": "Egocentric Molecules",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-08T07:05:58Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
