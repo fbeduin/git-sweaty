@@ -60695,5 +60695,57 @@
     "start_date_local": "2026-05-11T08:01:07Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 10774.1,
+    "elevation_gain": 49.0,
+    "id": "18467744277",
+    "moving_time": 1660.0,
+    "name": "Every Piece Matters",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-11T15:21:07Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 12616.2,
+    "elevation_gain": 55.0,
+    "id": "18476923420",
+    "moving_time": 2007.0,
+    "name": "Slapocalypse Reborn",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-11T06:57:43Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18475149494",
+    "moving_time": 2682.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-12T07:08:40Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 12048.2,
+    "elevation_gain": 46.0,
+    "id": "18476946425",
+    "moving_time": 2067.0,
+    "name": "Adaptable Creatures",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-12T07:00:06Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
