@@ -60747,5 +60747,31 @@
     "start_date_local": "2026-05-12T07:00:06Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 11817.3,
+    "elevation_gain": 67.0,
+    "id": "18482198325",
+    "moving_time": 1841.0,
+    "name": "Seeker",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-12T15:53:57Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 13305.7,
+    "elevation_gain": 44.0,
+    "id": "18489390505",
+    "moving_time": 2011.0,
+    "name": "Mickey Mais",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-13T07:47:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
