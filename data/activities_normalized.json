@@ -60773,5 +60773,57 @@
     "start_date_local": "2026-05-13T07:47:46Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 10768.6,
+    "elevation_gain": 85.0,
+    "id": "18494798584",
+    "moving_time": 1577.0,
+    "name": "King of Nothing",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-13T15:13:55Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 551.3,
+    "elevation_gain": 16.0,
+    "id": "18501539664",
+    "moving_time": 137.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-14T07:00:55Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18502339292",
+    "moving_time": 3244.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-14T07:07:39Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 10814.3,
+    "elevation_gain": 19.0,
+    "id": "18502809763",
+    "moving_time": 1705.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-14T08:03:02Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
