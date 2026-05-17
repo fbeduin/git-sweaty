@@ -60832,10 +60832,36 @@
     "elevation_gain": 120.0,
     "id": "18509568074",
     "moving_time": 2840.0,
-    "name": "Afternoon Ride",
+    "name": "Neon Ventura",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-05-14T15:13:14Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 11367.4,
+    "elevation_gain": 35.0,
+    "id": "18532731587",
+    "moving_time": 1842.0,
+    "name": "Damage Control",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-14T07:00:55Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 100878.0,
+    "elevation_gain": 678.0,
+    "id": "18531688917",
+    "moving_time": 14194.0,
+    "name": "Honey I Shrunk the Squid",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-16T08:18:48Z",
     "type": "Ride",
     "year": 2026
   }
