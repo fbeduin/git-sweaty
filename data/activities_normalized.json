@@ -60877,5 +60877,31 @@
     "start_date_local": "2026-05-18T07:08:44Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18566148858",
+    "moving_time": 3219.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-19T07:04:49Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 11141.2,
+    "elevation_gain": 79.0,
+    "id": "18567627339",
+    "moving_time": 1750.0,
+    "name": "Double Malt Ditty",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-19T06:56:49Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
