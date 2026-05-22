@@ -60981,5 +60981,57 @@
     "start_date_local": "2026-05-21T07:54:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 10623.3,
+    "elevation_gain": 68.0,
+    "id": "18600538458",
+    "moving_time": 1827.0,
+    "name": "Elements of Surprise",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-21T15:40:07Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 10825.0,
+    "elevation_gain": 41.0,
+    "id": "18603090677",
+    "moving_time": 1730.0,
+    "name": "Watch Your Step",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-21T06:56:27Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18606593920",
+    "moving_time": 2112.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-22T07:16:23Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 11947.5,
+    "elevation_gain": 44.0,
+    "id": "18608018088",
+    "moving_time": 1830.0,
+    "name": "Uncle Funkster",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-22T07:08:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
