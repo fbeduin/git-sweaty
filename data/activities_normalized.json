@@ -61033,5 +61033,18 @@
     "start_date_local": "2026-05-22T07:08:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 10768.7,
+    "elevation_gain": 67.0,
+    "id": "18612039966",
+    "moving_time": 1721.0,
+    "name": "War Time Poem",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-22T15:12:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
