@@ -61072,5 +61072,31 @@
     "start_date_local": "2026-05-25T08:25:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 11457.7,
+    "elevation_gain": 38.0,
+    "id": "18652179831",
+    "moving_time": 1747.0,
+    "name": "(Great) Ball of Issues",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-25T15:29:59Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18659260344",
+    "moving_time": 2415.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-26T07:04:31Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
