@@ -61163,5 +61163,31 @@
     "start_date_local": "2026-05-28T07:58:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 13195.8,
+    "elevation_gain": 78.0,
+    "id": "18693079800",
+    "moving_time": 1987.0,
+    "name": "R\u00fcya",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-28T15:06:14Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 11660.8,
+    "elevation_gain": 33.0,
+    "id": "18701101040",
+    "moving_time": 1754.0,
+    "name": "Does This Forest Djent?",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-29T07:53:58Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
