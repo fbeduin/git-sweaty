@@ -61228,5 +61228,44 @@
     "start_date_local": "2026-05-31T12:27:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 66610.3,
+    "elevation_gain": 459.0,
+    "id": "18736122853",
+    "moving_time": 10385.0,
+    "name": "Ghost Farmer",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-31T07:22:00Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 11089.1,
+    "elevation_gain": 41.0,
+    "id": "18740192837",
+    "moving_time": 1659.0,
+    "name": "Swarming Goblets",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-01T07:40:48Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 4399.5,
+    "elevation_gain": 37.0,
+    "id": "18744692496",
+    "moving_time": 789.0,
+    "name": "Mind Over Man",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-01T14:12:07Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
