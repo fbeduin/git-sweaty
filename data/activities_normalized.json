@@ -61267,5 +61267,31 @@
     "start_date_local": "2026-06-01T14:12:07Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 16544.8,
+    "elevation_gain": 42.0,
+    "id": "18754149598",
+    "moving_time": 2486.0,
+    "name": "Wonderful Slippery Thing",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-02T07:25:56Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 9376.9,
+    "elevation_gain": 45.0,
+    "id": "18759649623",
+    "moving_time": 1445.0,
+    "name": "Pedalada da tarde",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-02T14:55:29Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
