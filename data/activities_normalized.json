@@ -61404,10 +61404,23 @@
     "elevation_gain": 74.0,
     "id": "18841944224",
     "moving_time": 2110.0,
-    "name": "Afternoon Ride",
+    "name": "After Hours",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-08T15:20:24Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 10599.8,
+    "elevation_gain": 57.0,
+    "id": "18863692365",
+    "moving_time": 1675.0,
+    "name": "Day One, again",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-08T07:00:09Z",
     "type": "Ride",
     "year": 2026
   },
@@ -61422,6 +61435,19 @@
     "raw_type": "WeightTraining",
     "start_date_local": "2026-06-09T07:02:53Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 11964.0,
+    "elevation_gain": 50.0,
+    "id": "18863420148",
+    "moving_time": 1802.0,
+    "name": "9 Wheels",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-10T08:02:41Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
