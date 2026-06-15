@@ -61475,5 +61475,44 @@
     "start_date_local": "2026-06-11T07:00:01Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18927319880",
+    "moving_time": 2838.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-15T07:01:30Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 11812.5,
+    "elevation_gain": 86.0,
+    "id": "18930531623",
+    "moving_time": 1956.0,
+    "name": "An Unnameable Desire",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-15T06:52:22Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 13206.4,
+    "elevation_gain": 83.0,
+    "id": "18933286557",
+    "moving_time": 2075.0,
+    "name": "Pedalada da tarde",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-15T15:12:29Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
