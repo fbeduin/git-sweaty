@@ -61553,5 +61553,44 @@
     "start_date_local": "2026-06-16T08:01:24Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 10778.7,
+    "elevation_gain": 65.0,
+    "id": "18948110774",
+    "moving_time": 1794.0,
+    "name": "Visual Delay",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-16T15:22:55Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 12970.1,
+    "elevation_gain": 27.0,
+    "id": "18949675334",
+    "moving_time": 1994.0,
+    "name": "Cattywampus",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-16T07:04:09Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 11286.1,
+    "elevation_gain": 32.0,
+    "id": "18956302868",
+    "moving_time": 1687.0,
+    "name": "Flexible Flyer",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-17T07:53:47Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
