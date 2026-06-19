@@ -61644,5 +61644,44 @@
     "start_date_local": "2026-06-18T07:49:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 19026.7,
+    "elevation_gain": 102.0,
+    "id": "18976981090",
+    "moving_time": 3025.0,
+    "name": "Voice of Reason",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-18T15:10:46Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 11856.7,
+    "elevation_gain": 41.0,
+    "id": "18985959945",
+    "moving_time": 1805.0,
+    "name": "Sweaty Knockers",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-18T06:55:42Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 9085.0,
+    "elevation_gain": 54.0,
+    "id": "18983147931",
+    "moving_time": 1418.0,
+    "name": "Scatterbrain",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-19T08:04:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
