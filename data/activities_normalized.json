@@ -61722,5 +61722,31 @@
     "start_date_local": "2026-06-22T07:08:19Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 5092.5,
+    "elevation_gain": 42.0,
+    "id": "19025792813",
+    "moving_time": 876.0,
+    "name": "Chump Suey",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-22T15:16:22Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 12154.7,
+    "elevation_gain": 65.0,
+    "id": "19035457556",
+    "moving_time": 2041.0,
+    "name": "Carved in the Trees",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-23T08:01:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
