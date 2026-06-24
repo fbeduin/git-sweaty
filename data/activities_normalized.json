@@ -61748,5 +61748,31 @@
     "start_date_local": "2026-06-23T08:01:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 11218.3,
+    "elevation_gain": 70.0,
+    "id": "19039716333",
+    "moving_time": 1731.0,
+    "name": "Personal Jesus",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-23T15:27:29Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 15142.9,
+    "elevation_gain": 59.0,
+    "id": "19048385303",
+    "moving_time": 2305.0,
+    "name": "Emotional Squalor",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-24T07:20:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
