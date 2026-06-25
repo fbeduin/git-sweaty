@@ -61774,5 +61774,44 @@
     "start_date_local": "2026-06-24T07:20:46Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 20472.7,
+    "elevation_gain": 95.0,
+    "id": "19052999185",
+    "moving_time": 3220.0,
+    "name": "The Lost Foot",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-24T14:57:12Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19060760222",
+    "moving_time": 2385.0,
+    "name": "Treinamento com peso matinal",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-25T07:09:33Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 11947.1,
+    "elevation_gain": 37.0,
+    "id": "19061403395",
+    "moving_time": 1911.0,
+    "name": "101 Shuffle",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-25T07:02:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
