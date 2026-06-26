@@ -61813,5 +61813,31 @@
     "start_date_local": "2026-06-25T07:02:21Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 18421.8,
+    "elevation_gain": 86.0,
+    "id": "19066591783",
+    "moving_time": 3009.0,
+    "name": "Down On The Corner",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-25T15:10:46Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 10889.3,
+    "elevation_gain": 46.0,
+    "id": "19074425825",
+    "moving_time": 1655.0,
+    "name": "Pedalada matinal",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-26T07:52:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
