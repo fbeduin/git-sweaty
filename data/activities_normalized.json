@@ -61833,10 +61833,36 @@
     "elevation_gain": 46.0,
     "id": "19074425825",
     "moving_time": 1655.0,
-    "name": "Pedalada matinal",
+    "name": "All Things Considered",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-26T07:52:40Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 9508.4,
+    "elevation_gain": 39.0,
+    "id": "19078121575",
+    "moving_time": 1650.0,
+    "name": "Slick Shift",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-26T16:14:39Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 60917.9,
+    "elevation_gain": 207.0,
+    "id": "19087280629",
+    "moving_time": 8969.0,
+    "name": "Pedalada matinal",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-27T07:55:10Z",
     "type": "Ride",
     "year": 2026
   }
