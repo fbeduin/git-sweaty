@@ -61865,5 +61865,31 @@
     "start_date_local": "2026-06-27T07:55:10Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 9099.6,
+    "elevation_gain": 62.0,
+    "id": "19108978705",
+    "moving_time": 1407.0,
+    "name": "Burnin\u2019",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-29T07:47:40Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 5062.6,
+    "elevation_gain": 38.0,
+    "id": "19112188679",
+    "moving_time": 862.0,
+    "name": "Pedalada na hora do almo\u00e7o",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-29T12:45:39Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
