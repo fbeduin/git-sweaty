@@ -61904,5 +61904,18 @@
     "start_date_local": "2026-07-02T07:06:35Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 14229.3,
+    "elevation_gain": 94.0,
+    "id": "19161695242",
+    "moving_time": 2332.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-03T07:22:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
