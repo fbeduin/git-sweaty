@@ -61950,7 +61950,7 @@
     "elevation_gain": 54.0,
     "id": "19204803736",
     "moving_time": 1641.0,
-    "name": "Pedalada da tarde",
+    "name": "Let's Groove",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-07-06T15:11:10Z",
@@ -61993,6 +61993,32 @@
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-07-07T07:50:58Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 11160.2,
+    "elevation_gain": 54.0,
+    "id": "19219030532",
+    "moving_time": 1864.0,
+    "name": "Twenty Nine",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-07T15:17:44Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 11839.5,
+    "elevation_gain": 41.0,
+    "id": "19228504899",
+    "moving_time": 1778.0,
+    "name": "Forty Two",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-08T08:02:04Z",
     "type": "Ride",
     "year": 2026
   }
