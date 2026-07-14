@@ -33431,6 +33431,34 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-07-13",
+      "hour": 7,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-13",
+      "hour": 7,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-13",
+      "hour": 7,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-13",
+      "hour": 15,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -59133,6 +59161,17 @@
           "distance": 22675.2,
           "elevation_gain": 110.0,
           "moving_time": 3629.0
+        },
+        "2026-07-13": {
+          "activity_ids": [
+            "19299202867",
+            "19299202946",
+            "19299202991"
+          ],
+          "count": 3,
+          "distance": 22154.5,
+          "elevation_gain": 111.0,
+          "moving_time": 3592.0
         }
       },
       "WeightTraining": {
@@ -59477,11 +59516,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2356.0
+        },
+        "2026-07-13": {
+          "activity_ids": [
+            "19299202848"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2141.0
         }
       }
     }
   },
-  "generated_at": "2026-07-13T17:03:24.082315+00:00",
+  "generated_at": "2026-07-14T16:05:48.507346+00:00",
   "other_bucket": "OtherSports",
   "repo": "fbeduin/git-sweaty",
   "source": "strava",
