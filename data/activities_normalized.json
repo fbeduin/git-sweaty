@@ -62294,5 +62294,31 @@
     "start_date_local": "2026-07-17T15:05:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 10828.5,
+    "elevation_gain": 41.0,
+    "id": "19392812210",
+    "moving_time": 1636.0,
+    "name": "Pedalada da tarde",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-20T15:08:19Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 6804.9,
+    "elevation_gain": 25.0,
+    "id": "19392812216",
+    "moving_time": 1127.0,
+    "name": "Pedalada matinal",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-20T08:06:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
