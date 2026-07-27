@@ -33587,6 +33587,13 @@
       "year": 2026
     },
     {
+      "date": "2026-07-21",
+      "hour": 7,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
       "date": "2026-07-23",
       "hour": 7,
       "subtype": "WeightTraining",
@@ -33610,6 +33617,27 @@
     {
       "date": "2026-07-25",
       "hour": 6,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-27",
+      "hour": 7,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-27",
+      "hour": 7,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-27",
+      "hour": 7,
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
@@ -59383,12 +59411,13 @@
           "activity_ids": [
             "19407529746",
             "19407529905",
-            "19407529984"
+            "19407529984",
+            "19480045314"
           ],
-          "count": 3,
-          "distance": 23903.7,
-          "elevation_gain": 101.0,
-          "moving_time": 3664.0
+          "count": 4,
+          "distance": 34946.4,
+          "elevation_gain": 145.0,
+          "moving_time": 5279.0
         },
         "2026-07-24": {
           "activity_ids": [
@@ -59408,6 +59437,16 @@
           "distance": 80117.9,
           "elevation_gain": 519.0,
           "moving_time": 13039.0
+        },
+        "2026-07-27": {
+          "activity_ids": [
+            "19482970867",
+            "19484025752"
+          ],
+          "count": 2,
+          "distance": 11819.800000000001,
+          "elevation_gain": 70.0,
+          "moving_time": 1897.0
         }
       },
       "WeightTraining": {
@@ -59797,11 +59836,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3051.0
+        },
+        "2026-07-27": {
+          "activity_ids": [
+            "19483422023"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1886.0
         }
       }
     }
   },
-  "generated_at": "2026-07-26T15:51:10.318881+00:00",
+  "generated_at": "2026-07-27T16:51:04.341641+00:00",
   "other_bucket": "OtherSports",
   "repo": "fbeduin/git-sweaty",
   "source": "strava",
