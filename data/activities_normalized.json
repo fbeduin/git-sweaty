@@ -62483,10 +62483,23 @@
     "elevation_gain": 48.0,
     "id": "19489854914",
     "moving_time": 1832.0,
-    "name": "Afternoon Ride",
+    "name": "Mood For A Day",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-07-27T15:11:27Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-27",
+    "distance": 11820.1,
+    "elevation_gain": 70.0,
+    "id": "19536881271",
+    "moving_time": 1897.0,
+    "name": "Three Blind Mice",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-27T07:06:48Z",
     "type": "Ride",
     "year": 2026
   },
@@ -62543,6 +62556,32 @@
     "year": 2026
   },
   {
+    "date": "2026-07-28",
+    "distance": 23058.0,
+    "elevation_gain": 96.0,
+    "id": "19536897100",
+    "moving_time": 3484.0,
+    "name": "A Taste for Passion",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-28T07:07:52Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 15578.8,
+    "elevation_gain": 152.0,
+    "id": "19536909409",
+    "moving_time": 2679.0,
+    "name": "Dead Ranch",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-28T15:03:42Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
     "date": "2026-07-30",
     "distance": 0.0,
     "elevation_gain": 0.0,
@@ -62553,6 +62592,19 @@
     "raw_type": "WeightTraining",
     "start_date_local": "2026-07-30T07:00:27Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 20772.7,
+    "elevation_gain": 104.0,
+    "id": "19534623945",
+    "moving_time": 3220.0,
+    "name": "Receptionist",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-30T15:09:23Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
