@@ -62606,5 +62606,18 @@
     "start_date_local": "2026-07-30T15:09:23Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 50668.1,
+    "elevation_gain": 380.0,
+    "id": "19547008471",
+    "moving_time": 7347.0,
+    "name": "Dirt From a Holy Place",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-31T15:02:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
