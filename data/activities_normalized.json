@@ -62619,5 +62619,18 @@
     "start_date_local": "2026-07-31T15:02:04Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 126653.0,
+    "elevation_gain": 2692.0,
+    "id": "19559841712",
+    "moving_time": 25211.0,
+    "name": "L\u2019\u00c9tape du Peba",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-01T06:54:58Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
