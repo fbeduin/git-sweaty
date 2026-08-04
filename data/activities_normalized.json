@@ -62632,5 +62632,31 @@
     "start_date_local": "2026-08-01T06:54:58Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 55716.8,
+    "elevation_gain": 350.0,
+    "id": "19588508354",
+    "moving_time": 7892.0,
+    "name": "Fractured Finger Phobia",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-03T15:53:52Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19595667490",
+    "moving_time": 4299.0,
+    "name": "Muscula\u00e7\u00e3o matinal",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-04T07:02:35Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
