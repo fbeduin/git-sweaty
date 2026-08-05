@@ -62658,5 +62658,18 @@
     "start_date_local": "2026-08-04T07:02:35Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 69504.8,
+    "elevation_gain": 791.0,
+    "id": "19603531596",
+    "moving_time": 9817.0,
+    "name": "We\u2019re goin\u2019 in. We\u2019re going down.",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-04T15:04:50Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
