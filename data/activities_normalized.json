@@ -62697,5 +62697,31 @@
     "start_date_local": "2026-08-07T07:15:20Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 75456.5,
+    "elevation_gain": 614.0,
+    "id": "19646027599",
+    "moving_time": 10893.0,
+    "name": "Underachievement Unlocked",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-07T14:54:49Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 52519.3,
+    "elevation_gain": 233.0,
+    "id": "19654964388",
+    "moving_time": 7340.0,
+    "name": "Pedalada matinal",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-08T08:12:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
