@@ -62736,5 +62736,31 @@
     "start_date_local": "2026-08-10T07:03:15Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-10",
+    "distance": 70322.4,
+    "elevation_gain": 763.0,
+    "id": "19686838313",
+    "moving_time": 10703.0,
+    "name": "Karma Wheel",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-10T14:49:53Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19694175220",
+    "moving_time": 2775.0,
+    "name": "Muscula\u00e7\u00e3o matinal",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-11T07:23:08Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
