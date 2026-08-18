@@ -62762,5 +62762,31 @@
     "start_date_local": "2026-08-11T07:23:08Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19783360630",
+    "moving_time": 2532.0,
+    "name": "Muscula\u00e7\u00e3o matinal",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-13T07:02:53Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "distance": 50688.1,
+    "elevation_gain": 428.0,
+    "id": "19785022001",
+    "moving_time": 7192.0,
+    "name": "Earthguest",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-17T15:54:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
