@@ -62840,5 +62840,18 @@
     "start_date_local": "2026-08-18T07:15:18Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 130031.0,
+    "elevation_gain": 1043.0,
+    "id": "19813040154",
+    "moving_time": 18858.0,
+    "name": "And the Sky Was Opened",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-19T08:23:09Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
