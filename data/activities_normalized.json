@@ -62821,7 +62821,7 @@
     "elevation_gain": 113.0,
     "id": "19799890609",
     "moving_time": 2773.0,
-    "name": "Pedalada da tarde",
+    "name": "Slick Shift",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-08-18T15:18:01Z",
@@ -62842,6 +62842,19 @@
     "year": 2026
   },
   {
+    "date": "2026-08-18",
+    "distance": 11952.6,
+    "elevation_gain": 58.0,
+    "id": "19855519689",
+    "moving_time": 1893.0,
+    "name": "Major Fascination",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-18T07:08:17Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
     "date": "2026-08-19",
     "distance": 130031.0,
     "elevation_gain": 1043.0,
@@ -62851,6 +62864,19 @@
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-08-19T08:23:09Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 125580.0,
+    "elevation_gain": 817.0,
+    "id": "19852415919",
+    "moving_time": 17342.0,
+    "name": "Pinprick",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-22T06:40:23Z",
     "type": "Ride",
     "year": 2026
   }
