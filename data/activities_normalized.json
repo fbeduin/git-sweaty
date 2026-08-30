@@ -62879,5 +62879,18 @@
     "start_date_local": "2026-08-22T06:40:23Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 7195.1,
+    "elevation_gain": 481.0,
+    "id": "19954957344",
+    "moving_time": 8463.0,
+    "name": "Lagoa Humantay",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-29T08:19:14Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
