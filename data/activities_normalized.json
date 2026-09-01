@@ -62892,5 +62892,18 @@
     "start_date_local": "2026-08-29T08:19:14Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 7638.2,
+    "elevation_gain": 407.0,
+    "id": "19981914752",
+    "moving_time": 7865.0,
+    "name": "Montanha Colorida (Vinicunca)",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-31T07:54:53Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
