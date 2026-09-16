@@ -62970,5 +62970,18 @@
     "start_date_local": "2026-09-14T08:43:42Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-15",
+    "distance": 115168.0,
+    "elevation_gain": 911.0,
+    "id": "20190595253",
+    "moving_time": 17025.0,
+    "name": "Cutting Loose",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-15T08:01:35Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
