@@ -62983,5 +62983,18 @@
     "start_date_local": "2026-09-15T08:01:35Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20211892511",
+    "moving_time": 2461.0,
+    "name": "Muscula\u00e7\u00e3o matinal",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-17T07:11:57Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
