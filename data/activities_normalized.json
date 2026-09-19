@@ -63009,5 +63009,18 @@
     "start_date_local": "2026-09-18T08:01:52Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 6908.4,
+    "elevation_gain": 33.0,
+    "id": "20232312407",
+    "moving_time": 1129.0,
+    "name": "Pedalada ao entardecer \u2601\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-18T18:37:44Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
