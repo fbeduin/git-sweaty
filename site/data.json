@@ -33956,6 +33956,13 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-10-08",
+      "hour": 18,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -60478,10 +60485,21 @@
           "elevation_gain": 0.0,
           "moving_time": 2628.0
         }
+      },
+      "Workout": {
+        "2026-10-08": {
+          "activity_ids": [
+            "20508674349"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2816.0
+        }
       }
     }
   },
-  "generated_at": "2026-10-08T20:15:55.404030+00:00",
+  "generated_at": "2026-10-09T19:51:49.843346+00:00",
   "other_bucket": "OtherSports",
   "repo": "fbeduin/git-sweaty",
   "source": "strava",
@@ -60505,6 +60523,10 @@
     "WeightTraining": {
       "accent": "#ff71ce",
       "label": "Weight Training"
+    },
+    "Workout": {
+      "accent": "#ff8a5b",
+      "label": "Other Workout"
     }
   },
   "types": [
@@ -60512,7 +60534,8 @@
     "Ride",
     "Run",
     "VirtualRow",
-    "WeightTraining"
+    "WeightTraining",
+    "Workout"
   ],
   "units": {
     "distance": "km",
