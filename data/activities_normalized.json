@@ -63087,5 +63087,18 @@
     "start_date_local": "2026-10-19T15:07:46Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 100289.0,
+    "elevation_gain": 553.0,
+    "id": "20667231033",
+    "moving_time": 14300.0,
+    "name": "Symptom of the Universe",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-20T14:51:28Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
