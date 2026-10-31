@@ -63113,5 +63113,18 @@
     "start_date_local": "2026-10-26T15:00:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 103108.0,
+    "elevation_gain": 601.0,
+    "id": "20804846110",
+    "moving_time": 14904.0,
+    "name": "Monosyllabic",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-31T05:43:35Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
