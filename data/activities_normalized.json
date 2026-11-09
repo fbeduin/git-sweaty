@@ -63126,5 +63126,18 @@
     "start_date_local": "2026-10-31T05:43:35Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 154768.0,
+    "elevation_gain": 1820.0,
+    "id": "20913278119",
+    "moving_time": 22795.0,
+    "name": "Immaterial",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-08T08:51:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
