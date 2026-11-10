@@ -63139,5 +63139,18 @@
     "start_date_local": "2026-11-08T08:51:37Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 11622.8,
+    "elevation_gain": 56.0,
+    "id": "20932600531",
+    "moving_time": 1675.0,
+    "name": "Testify",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-10T08:06:17Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
