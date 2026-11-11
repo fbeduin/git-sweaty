@@ -63152,5 +63152,44 @@
     "start_date_local": "2026-11-10T08:06:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 11190.8,
+    "elevation_gain": 60.0,
+    "id": "20939030036",
+    "moving_time": 1815.0,
+    "name": "Back to the Primitive",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-10T18:21:04Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 11321.5,
+    "elevation_gain": 46.0,
+    "id": "20945232598",
+    "moving_time": 1725.0,
+    "name": "So Flute",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-11T07:41:07Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 10441.0,
+    "elevation_gain": 54.0,
+    "id": "20952501540",
+    "moving_time": 1649.0,
+    "name": "Pedalada ao entardecer \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-11T18:04:14Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
