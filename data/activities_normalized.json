@@ -63185,10 +63185,23 @@
     "elevation_gain": 54.0,
     "id": "20952501540",
     "moving_time": 1649.0,
-    "name": "Pedalada ao entardecer \u2600\ufe0f",
+    "name": "In the meantime\u2026",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-11-11T18:04:14Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 14436.0,
+    "elevation_gain": 80.0,
+    "id": "20958526901",
+    "moving_time": 2133.0,
+    "name": "So You Say",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-12T07:52:17Z",
     "type": "Ride",
     "year": 2026
   }
