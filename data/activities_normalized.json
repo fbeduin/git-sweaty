@@ -63204,5 +63204,31 @@
     "start_date_local": "2026-11-12T07:52:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 10705.1,
+    "elevation_gain": 57.0,
+    "id": "20965146753",
+    "moving_time": 1652.0,
+    "name": "Phatbacc",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-12T18:14:05Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 11286.6,
+    "elevation_gain": 32.0,
+    "id": "20971137011",
+    "moving_time": 1687.0,
+    "name": "In Excess",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-13T07:29:00Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
