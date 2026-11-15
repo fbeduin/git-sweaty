@@ -63243,5 +63243,18 @@
     "start_date_local": "2026-11-13T18:04:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 201036.0,
+    "elevation_gain": 1681.0,
+    "id": "20989846889",
+    "moving_time": 28248.0,
+    "name": "Roots Bloody Roots",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-14T09:36:57Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
