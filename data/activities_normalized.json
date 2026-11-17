@@ -63276,10 +63276,36 @@
     "elevation_gain": 58.0,
     "id": "21013523354",
     "moving_time": 2116.0,
-    "name": "Pedalada da tarde \ud83c\udf27",
+    "name": "Still Remains",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-11-16T16:59:52Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 11359.2,
+    "elevation_gain": 85.0,
+    "id": "21020543466",
+    "moving_time": 1655.0,
+    "name": "On a Plain",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-17T07:56:29Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 17007.8,
+    "elevation_gain": 110.0,
+    "id": "21025248067",
+    "moving_time": 2546.0,
+    "name": "What Happened to You?",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-17T15:16:19Z",
     "type": "Ride",
     "year": 2026
   }
